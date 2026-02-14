@@ -81,5 +81,10 @@ This dashboard visualizes the fatality rate per year,revealing that fatalities p
 
 
 Fatalities as a Share of Injuries (Line Graph):
+
 “Fatalities as a Share of Injuries: Assessing Risk in Traffic Collisions”
 This visualization highlights the fatalities as a share of injuries,offering an in-depth look at the severity of traffic accidents over time.A sharp increase in fatalities as a percentage of injuries around 2016 followed by a decline suggests that while injuries are decreasing,fatal accidents remain a significant concern in certain periods.
+
+![Image Alt]
+
+
