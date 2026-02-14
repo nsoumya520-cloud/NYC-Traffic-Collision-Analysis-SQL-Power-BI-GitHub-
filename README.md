@@ -47,12 +47,13 @@ KPIs at the top show the total crashes (1M), total injuries (390K), and total fa
 
 ![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/08e0d9ebd358a3d483e73ddc17dcef722e5442d8/Key%20Performance%20Indicators%20(KPIs).png)
 
-Fatalities per 1,000 Crashes: Shows the fatality rate in relation to the total number of crashes. The 0.18 fatalities per 1,000 crashes suggest that fatalities are a small portion of the overall crashes.
+Fatalities per 1,000 Crashes:Shows the fatality rate in relation to the total number of crashes. The 0.18 fatalities per 1,000 crashes suggest that fatalities are a small portion of the overall crashes.
 
 ![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/5bf59aa8beabbd2aad125589875bd8522f97189a/%E2%80%9CFatalities%20per%201%2C000%20Crashes%20A%20Key%20Indicator%20of%20Traffic%20Safety%E2%80%9D.png)
 
 
 Crashes by Year (Line Graph):
+
 “Annual Crash Analysis:Tracking the Shifts in Traffic Accidents Over Time”
 This dashboard provides an overview of crash trends from 2012 to 2024.It highlights the notable surge in crashes around 2016, followed by a decline post-2021.The trend reveals how crash occurrences are fluctuating over the years and indicates the effectiveness of traffic safety initiatives or external factors such as pandemic restrictions.
 
@@ -61,10 +62,14 @@ This dashboard provides an overview of crash trends from 2012 to 2024.It highlig
 
 
 
-
 Injuries by Year (Bar Chart):
 
-A bar chart showing total injuries per year. The 2018-2019 peak in injuries is clear, with a noticeable decline post-2021.
+“Injury Trends: Identifying Peaks and Declines in Traffic Accident Injuries”
+This chart tracks total injuries per year from 2012 to 2025,with a notable peak in 2018 and 2019,followed by a steady decline post-2021.Understanding injury patterns helps evaluate the impact of safety measures and public health initiatives over time,pointing to successful efforts in reducing injuries.
+
+
+
+
 
 Fatality Rate (%) by Year (Line Graph):
 
