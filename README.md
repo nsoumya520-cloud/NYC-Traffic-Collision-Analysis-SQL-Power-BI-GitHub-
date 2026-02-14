@@ -44,6 +44,7 @@ Crashes by Year (Line Graph):
 This dashboard provides an overview of crash trends from 2012 to 2024.It highlights the notable surge in crashes around 2016, followed by a decline post-2021.The trend reveals how crash occurrences are fluctuating over the years and indicates the effectiveness of traffic safety initiatives or external factors such as pandemic restrictions.
 
 
+![Image Alt]
 
 
 
