@@ -87,7 +87,9 @@ This visualization highlights the fatalities as a share of injuries,offering an 
 
 ![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/b923df2349bc86ef62d274d1d8e5b961eb903cfa/Fatalities%20as%20a%20Share%20of%20Injuries%20Assessing%20Risk%20in%20Traffic%20Collisions.png)
 
-This is all about page 1M
+Take a look of over all visuals
+
+![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/4ae12d2770e15e1aeace5b2da6de979b0e8158da/Page%201%20Over%20view.png)
 
 
 
