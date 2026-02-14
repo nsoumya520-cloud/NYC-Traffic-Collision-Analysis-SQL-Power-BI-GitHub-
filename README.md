@@ -68,6 +68,8 @@ Injuries by Year (Bar Chart):
 This chart tracks total injuries per year from 2012 to 2025,with a notable peak in 2018 and 2019,followed by a steady decline post-2021.Understanding injury patterns helps evaluate the impact of safety measures and public health initiatives over time,pointing to successful efforts in reducing injuries.
 
 
+![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/b73f40df6523d7f65581c01c6918e12d243d1a18/Injury%20Trend%20Analysis%20Traffic%20Accident%20Injuries%20Over%20the%20Years.png)
+
 
 
 
