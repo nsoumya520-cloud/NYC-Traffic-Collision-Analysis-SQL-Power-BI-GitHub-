@@ -34,11 +34,11 @@ KPIs at the top show the total crashes (1M), total injuries (390K), and total fa
 
 ![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/08e0d9ebd358a3d483e73ddc17dcef722e5442d8/Key%20Performance%20Indicators%20(KPIs).png)
 
-
-
-
-
 Fatalities per 1,000 Crashes: Shows the fatality rate in relation to the total number of crashes. The 0.18 fatalities per 1,000 crashes suggest that fatalities are a small portion of the overall crashes.
+
+![Image Alt]
+
+
 
 Crashes by Year (Line Graph):
 
