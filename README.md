@@ -125,6 +125,8 @@ Crash Involvement by Vehicle Category(line chart):
 This dashboard visualizes the crash involvement by vehicle category,showing that passenger vehicles are by far the most involved in accidents,followed by trucks and taxis.The bar chart helps identify the vehicle types contributing to a higher number of crashes and guides transportation policy,vehicle safety standards,and urban infrastructure development.
 
 
+![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/7d983f5534e6bd90eba0ce172f71dae65a488292/Crash%20Involvement%20by%20Vehicle%20Category.png)
+
 
 
 
