@@ -39,10 +39,14 @@ Fatalities per 1,000 Crashes: Shows the fatality rate in relation to the total n
 ![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/5bf59aa8beabbd2aad125589875bd8522f97189a/%E2%80%9CFatalities%20per%201%2C000%20Crashes%20A%20Key%20Indicator%20of%20Traffic%20Safety%E2%80%9D.png)
 
 
-
 Crashes by Year (Line Graph):
+“Annual Crash Analysis:Tracking the Shifts in Traffic Accidents Over Time”
+This dashboard provides an overview of crash trends from 2012 to 2024.It highlights the notable surge in crashes around 2016, followed by a decline post-2021.The trend reveals how crash occurrences are fluctuating over the years and indicates the effectiveness of traffic safety initiatives or external factors such as pandemic restrictions.
 
-A line graph showing the number of crashes per year from 2012 to 2025. This helps identify trends over time, such as a possible decline in crashes post-2021.
+
+
+
+
 
 Injuries by Year (Bar Chart):
 
