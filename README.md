@@ -130,8 +130,9 @@ This dashboard visualizes the crash involvement by vehicle category,showing that
 Take a look of over all visuals
 
 
+![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/460a2e95282accc7c07f1639fd68e88d255469ec/Page%202%20Over%20view.png)
 
-
+Purpose of this Dashboard:
 
 These dashboards aim to offer a detailed analysis of traffic accidents in NYC, focusing on trends, severity, and locations. The combined insights provide a holistic view of where traffic safety measures are most needed, helping to identify accident-prone areas, times, and vehicle types involved in crashes. The tool serves as a decision-making aid for stakeholders, helping to develop targeted interventions, improve infrastructure, and ultimately reduce traffic-related injuries and fatalities across the city.
 
