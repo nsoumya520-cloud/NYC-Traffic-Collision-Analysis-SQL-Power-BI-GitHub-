@@ -36,7 +36,7 @@ KPIs at the top show the total crashes (1M), total injuries (390K), and total fa
 
 Fatalities per 1,000 Crashes: Shows the fatality rate in relation to the total number of crashes. The 0.18 fatalities per 1,000 crashes suggest that fatalities are a small portion of the overall crashes.
 
-![Image Alt]
+![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/5bf59aa8beabbd2aad125589875bd8522f97189a/%E2%80%9CFatalities%20per%201%2C000%20Crashes%20A%20Key%20Indicator%20of%20Traffic%20Safety%E2%80%9D.png)
 
 
 
