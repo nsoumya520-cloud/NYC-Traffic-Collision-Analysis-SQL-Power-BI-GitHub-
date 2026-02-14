@@ -72,11 +72,13 @@ This chart tracks total injuries per year from 2012 to 2025,with a notable peak 
 
 
 
-
 Fatality Rate (%) by Year (Line Graph):
 
-This graph highlights the fatality rate (%) over time, with a sharp rise in 2016 followed by a steady decline from 2020 to 2025.
+“Fatality Rate Trends: Insights into Traffic Fatalities Relative to Crash Rates”
+This dashboard visualizes the fatality rate per year,revealing that fatalities peaked around 2016 but remain relatively stable post-2021,despite injury reductions. The data helps assess the overall severity of accidents over time and the effectiveness of interventions aimed at reducing fatalities.
+
+
 
 Fatalities as a Share of Injuries (Line Graph):
-
-A trendline that shows fatalities as a share of injuries. It indicates how fatal accidents have fluctuated as a percentage of total injuries over the years.
+“Fatalities as a Share of Injuries: Assessing Risk in Traffic Collisions”
+This visualization highlights the fatalities as a share of injuries,offering an in-depth look at the severity of traffic accidents over time.A sharp increase in fatalities as a percentage of injuries around 2016 followed by a decline suggests that while injuries are decreasing,fatal accidents remain a significant concern in certain periods.
