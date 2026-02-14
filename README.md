@@ -91,7 +91,10 @@ Take a look of over all visuals
 
 ![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/4ae12d2770e15e1aeace5b2da6de979b0e8158da/Page%201%20Over%20view.png)
 
+
+
 Top 10 Streets with Highest Crash Counts (Bar Graph):
+
 This dashboard presents the top 10 streets in New York City with the highest number of crashes, with Belt Parkway at the top, followed by Long Island Expressway and Brooklyn Queen Expressway.This information helps identify the most dangerous streets and prioritize traffic safety improvements and law enforcement interventions in these high-risk areas.
 
 
