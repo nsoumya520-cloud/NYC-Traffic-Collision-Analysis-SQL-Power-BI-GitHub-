@@ -1,119 +1,53 @@
-# NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-
-End-to-end analysis of 1M+ NYC traffic collision records using SQL and Power BI to identify crash trends, high-risk locations, and safety insights.
-)
-📌 Project Overview
+1) Project Title / Headline:
+🚗 NYC Traffic Collision Analysis: Power BI & SQL Dashboard
+An interactive data visualization tool built to explore motor vehicle collision data across New York City—focusing on accident hotspots, trends, and risk factors related to time, location, and vehicle types.
 
-This project analyzes over 1 million New York City traffic collision records to identify crash trends, high-risk locations, contributing factors, and the most affected road users.
-The goal is to transform raw public data into actionable traffic safety insights using SQL and Power BI.
+2) Short Description / Purpose:
+The NYC Traffic Collision Analysis dashboard leverages Power BI and SQL to provide an in-depth analysis of motor vehicle collision data across New York City. It helps city planners, safety analysts, and urban policy makers understand accident trends, identify high-risk areas, and inform traffic safety initiatives.
 
-The final output is an interactive Power BI dashboard designed for decision-makers, policy teams, and urban planners.
+3) Tech Stack:
+The dashboard was built using the following tools and technologies:
+📊 PowerBI Desktop – Main platform for building dynamic, interactive visualizations.
+📂 SQL – Used for extracting, cleaning, and transforming collision data from NYC Open Data.
+🧠 DAX (Data Analysis Expressions) – Applied for calculated measures and dynamic visual elements.
+📁 File Format – .pbix for Power BI files, .sql for SQL queries.
 
-🎯 Key Business Questions Answered
+4) Data Source:
+Source: NYC Open Data – The dataset contains detailed records of motor vehicle collisions across New York City, with information on accident location, severity, contributing factors, vehicle types, and time of day.
 
-Are traffic crashes increasing or decreasing over time?
+5) Features / Highlights
+Business Problem:
+Traffic collisions in New York City are a significant public safety issue. With over a million accidents reported, it's difficult for policymakers and analysts to quickly assess the key risk areas and factors contributing to these incidents. Access to timely, actionable insights is crucial for reducing accidents and saving lives.
 
-Which boroughs, streets, and intersections are the most dangerous?
+Goal of the Dashboard:
+1)To provide an interactive Power BI tool that:
+2)Enables users to explore trends in traffic collisions across NYC.
+3)Helps identify high-risk locations, times, and contributing factors.
+4)Assists policymakers, urban planners, and safety analysts in making informed decisions about traffic safety measures.
 
-What are the leading causes of crashes, and how do they vary by borough?
+Walkthrough of Key Visuals:
+1) Crash Overview & Hotspot Analysis (First Image)
 
-Which groups — pedestrians, cyclists, motorists — face the highest risk?
-
-Which vehicle categories are most frequently involved in crashes?
-
-🗂 Dataset
-
-Source: NYC Open Data – Motor Vehicle Collisions
-
-Time Period: 2020–2024
-
-Records: 1M+ collision records
-
-Granularity: Collision-level with location, vehicle, injury, and fatality details
-
-🛠️ Tech Stack
-
-SQL – Data cleaning, normalization, aggregation
-
-Excel – Initial inspection and validation
-
-Power BI – Interactive dashboards and visual storytelling
-
-🔧 Data Preparation & Modeling
-
-Imported flat files into a SQL database for efficient analysis
-
-Cleaned and standardized:
-
-Borough and street name inconsistencies
-
-Vehicle type variations (e.g., SUV, Taxi, Motorcycle)
-
-Converted date and time fields into proper datetime formats
-
-Normalized vehicle data by unpivoting multiple vehicle columns into a single vehicle table
-
-Created derived metrics for crashes, injuries, and fatalities
-
-📊 Dashboard Pages & Insights
-Page 1: Traffic Trends & Impact
-
-Total crashes over time (yearly trends)
-
-Borough-wise crash distribution
-
-Injury and fatality trends
-
-High-level KPIs for overall traffic safety impact
-
-Insight Example:
-Certain boroughs consistently account for a higher share of crashes, indicating the need for targeted enforcement.
-
-Page 2: High-Risk Locations & Vehicle Patterns
-
-Top collision-prone streets
-
-Comparison of vehicle categories involved in crashes
-
-Severity-focused visuals highlighting risk concentration
-
-Insight Example:
-A small set of streets contributes disproportionately to total collisions, making them priority candidates for safety interventions.
-
-🧠 Key Findings
-
-Traffic crashes show location-specific concentration rather than uniform distribution
-
-Driver-related factors dominate crash causes across boroughs
-
-Pedestrians and cyclists face higher injury risk in specific zones
-
-Certain vehicle categories are more frequently involved in severe collisions
-
-📢 Business & Policy Recommendations
-
-Increase speed enforcement and monitoring in high-crash corridors
-
-Improve pedestrian crossings and bike lane infrastructure in identified hotspots
-
-Run targeted distracted driving awareness campaigns
-
-Use data-driven prioritization for road safety investments
+----Total Crashes, Injuries, and Fatalities:
+KPIs at the top show the total crashes (1M), total injuries (390K), and total fatalities (1906). It gives a quick snapshot of the overall accident data, highlighting the scale of traffic incidents in NYC.
 
 
-📂 Repository Structure
-📁 data/          → Raw and cleaned datasets  
-📁 sql/           → SQL queries used for analysis  
-📁 visuals/       → Dashboard screenshots  
-README.md         → Project documentation  
 
-💼 Why This Project Matters
 
-This project demonstrates:
+Fatalities per 1,000 Crashes: Shows the fatality rate in relation to the total number of crashes. The 0.18 fatalities per 1,000 crashes suggest that fatalities are a small portion of the overall crashes.
 
-End-to-end data analysis workflow
+Crashes by Year (Line Graph):
 
-Strong SQL data modeling skills
+A line graph showing the number of crashes per year from 2012 to 2025. This helps identify trends over time, such as a possible decline in crashes post-2021.
 
-Ability to convert complex datasets into executive-ready insights
+Injuries by Year (Bar Chart):
 
-Practical application of analytics to real-world urban problems
+A bar chart showing total injuries per year. The 2018-2019 peak in injuries is clear, with a noticeable decline post-2021.
+
+Fatality Rate (%) by Year (Line Graph):
+
+This graph highlights the fatality rate (%) over time, with a sharp rise in 2016 followed by a steady decline from 2020 to 2025.
+
+Fatalities as a Share of Injuries (Line Graph):
+
+A trendline that shows fatalities as a share of injuries. It indicates how fatal accidents have fluctuated as a percentage of total injuries over the years.
