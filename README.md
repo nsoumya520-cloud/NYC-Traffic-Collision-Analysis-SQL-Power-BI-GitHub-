@@ -1,21 +1,30 @@
 1) Project Title / Headline:
-🚗 NYC Traffic Collision Analysis: Power BI & SQL Dashboard
+
+
+NYC Traffic Collision Analysis: Power BI & SQL Dashboard
 An interactive data visualization tool built to explore motor vehicle collision data across New York City—focusing on accident hotspots, trends, and risk factors related to time, location, and vehicle types.
 
 2) Short Description / Purpose:
+
+   
 The NYC Traffic Collision Analysis dashboard leverages Power BI and SQL to provide an in-depth analysis of motor vehicle collision data across New York City. It helps city planners, safety analysts, and urban policy makers understand accident trends, identify high-risk areas, and inform traffic safety initiatives.
 
-3) Tech Stack:
+4) Tech Stack:
+
 The dashboard was built using the following tools and technologies:
+
 📊 PowerBI Desktop – Main platform for building dynamic, interactive visualizations.
+
 📂 SQL – Used for extracting, cleaning, and transforming collision data from NYC Open Data.
+
 🧠 DAX (Data Analysis Expressions) – Applied for calculated measures and dynamic visual elements.
+
 📁 File Format – .pbix for Power BI files, .sql for SQL queries.
 
-4) Data Source:
+6) Data Source:
 Source: NYC Open Data – The dataset contains detailed records of motor vehicle collisions across New York City, with information on accident location, severity, contributing factors, vehicle types, and time of day.
 
-5) Features / Highlights
+7) Features / Highlights
 Business Problem:
 Traffic collisions in New York City are a significant public safety issue. With over a million accidents reported, it's difficult for policymakers and analysts to quickly assess the key risk areas and factors contributing to these incidents. Access to timely, actionable insights is crucial for reducing accidents and saving lives.
 
@@ -44,7 +53,7 @@ Crashes by Year (Line Graph):
 This dashboard provides an overview of crash trends from 2012 to 2024.It highlights the notable surge in crashes around 2016, followed by a decline post-2021.The trend reveals how crash occurrences are fluctuating over the years and indicates the effectiveness of traffic safety initiatives or external factors such as pandemic restrictions.
 
 
-![Image Alt]
+![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/2ce94581ef66cb3b77526bca66440c8855a400fb/Annual%20Crash%20Trends%20Analysis%20Yearly%20Traffic%20Accident%20Insights.png)
 
 
 
