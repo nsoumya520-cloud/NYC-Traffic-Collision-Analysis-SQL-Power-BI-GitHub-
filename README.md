@@ -117,12 +117,13 @@ Top 14 Streets with Highest Crash Counts(Table View):
 This table-based dashboard displays the top 14 streets in New York City with the highest crash counts,detailing total crashes,injuries,and fatalities for each street.Streets like 1 Avenue and 10 Avenue stand out with over 3,000 crashes.This data helps policymakers and traffic planners focus on areas with the highest need for safety measures and targeted interventions.
 
 
-
+![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/955c3179ff7bb222af79722517c1b3bcefbdcc7e/Top%2014%20Streets%20with%20Highest%20Crash%20Counts%20in%20NYC.png)
 
 
 Crash Involvement by Vehicle Category(line chart):
 
 This dashboard visualizes the crash involvement by vehicle category,showing that passenger vehicles are by far the most involved in accidents,followed by trucks and taxis.The bar chart helps identify the vehicle types contributing to a higher number of crashes and guides transportation policy,vehicle safety standards,and urban infrastructure development.
+
 
 
 
