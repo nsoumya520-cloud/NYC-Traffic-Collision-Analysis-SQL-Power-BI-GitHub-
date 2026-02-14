@@ -9,7 +9,7 @@ An interactive data visualization tool built to explore motor vehicle collision 
    
 The NYC Traffic Collision Analysis dashboard leverages Power BI and SQL to provide an in-depth analysis of motor vehicle collision data across New York City.It helps city planners,safety analysts,and urban policy makers understand accident trends,identify high-risk areas,and inform traffic safety initiatives.
 
-4) Tech Stack:
+3) Tech Stack:
 
 The dashboard was built using the following tools and technologies:
 
@@ -21,10 +21,10 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Format – .pbix for Power BI files, .sql for SQL queries.
 
-6) Data Source:
+4) Data Source:
 Source: NYC Open Data – The dataset contains detailed records of motor vehicle collisions across New York City,with information on accident location,severity, contributing factors,vehicle types,and time of day.
 
-7) Features / Highlights
+5) Features / Highlights
 Business Problem:
 Traffic collisions in New York City are a significant public safety issue.With over a million accidents reported,it's difficult for policymakers and analysts to quickly assess the key risk areas and factors contributing to these incidents.Access to timely,actionable insights is crucial for reducing accidents and saving lives.
 
@@ -86,5 +86,17 @@ Fatalities as a Share of Injuries (Line Graph):
 This visualization highlights the fatalities as a share of injuries,offering an in-depth look at the severity of traffic accidents over time.A sharp increase in fatalities as a percentage of injuries around 2016 followed by a decline suggests that while injuries are decreasing,fatal accidents remain a significant concern in certain periods.
 
 ![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/b923df2349bc86ef62d274d1d8e5b961eb903cfa/Fatalities%20as%20a%20Share%20of%20Injuries%20Assessing%20Risk%20in%20Traffic%20Collisions.png)
+
+This is all about page 1M
+
+
+
+
+
+
+
+
+
+
 
 
