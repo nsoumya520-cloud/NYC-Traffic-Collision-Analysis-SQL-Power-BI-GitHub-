@@ -107,7 +107,33 @@ Crash Trends by Vehicle Category (2020–2024) (Line Chart)
 
 
 This dashboard analyzes crash trends for different vehicle categories (e.g., passenger vehicles,trucks,bicycles,motorcycles)from 2020 to 2024.The line graph highlights how passenger vehicles dominate crash involvement,while trends in motorcycles and buses reveal important changes over the years.The visualization allows us to assess which vehicles contribute to more accidents and identify areas requiring targeted safety measures.
-![Image Alt]
+
+
+![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/357b0160a2c7e1eed6f0f3302711bafed309cb6e/Crash%20Trends%20by%20Vehicle%20Category%20(2020%E2%80%932024).png)
+
+
+Top 14 Streets with Highest Crash Counts(Table View):
+
+This table-based dashboard displays the top 14 streets in New York City with the highest crash counts,detailing total crashes,injuries,and fatalities for each street.Streets like 1 Avenue and 10 Avenue stand out with over 3,000 crashes.This data helps policymakers and traffic planners focus on areas with the highest need for safety measures and targeted interventions.
+
+
+
+
+
+Crash Involvement by Vehicle Category(line chart):
+
+This dashboard visualizes the crash involvement by vehicle category,showing that passenger vehicles are by far the most involved in accidents,followed by trucks and taxis.The bar chart helps identify the vehicle types contributing to a higher number of crashes and guides transportation policy,vehicle safety standards,and urban infrastructure development.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
