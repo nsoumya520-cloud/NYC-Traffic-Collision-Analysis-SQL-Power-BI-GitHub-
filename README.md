@@ -62,7 +62,7 @@ This dashboard provides an overview of crash trends from 2012 to 2024.It highlig
 
 
 
-Injuries by Year (Bar Chart):
+Injuries by Year (Column Chart):
 
 “Injury Trends:Identifying Peaks and Declines in Traffic Accident Injuries”
 This chart tracks total injuries per year from 2012 to 2025,with a notable peak in 2018 and 2019,followed by a steady decline post-2021.Understanding injury patterns helps evaluate the impact of safety measures and public health initiatives over time,pointing to successful efforts in reducing injuries.
@@ -90,7 +90,9 @@ This visualization highlights the fatalities as a share of injuries,offering an 
 Take a look of over all visuals
 
 ![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/4ae12d2770e15e1aeace5b2da6de979b0e8158da/Page%201%20Over%20view.png)
+Purpose of the Dashboard:
 
+This dashboard aims to provide a holistic view of traffic safety in NYC by aggregating data from multiple years,visualizing trends in accidents, injuries,and fatalities.It is designed to support data-driven decisions in urban planning,safety measures,and policy implementation.The dashboard also helps identify accident hotspots and trends by year,enabling targeted interventions in high-risk areas.
 
 
 Top 10 Streets with Highest Crash Counts (Bar Graph):
@@ -100,6 +102,12 @@ This dashboard presents the top 10 streets in New York City with the highest num
 
 ![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/32b7a2b0f66687414d2941738cec5d06d4cdeb98/Top%2010%20Streets%20with%20Highest%20Crash%20Counts%20in%20NYC.png)
 
+
+Crash Trends by Vehicle Category (2020–2024) (Line Chart)
+
+
+This dashboard analyzes crash trends for different vehicle categories (e.g., passenger vehicles,trucks,bicycles,motorcycles)from 2020 to 2024.The line graph highlights how passenger vehicles dominate crash involvement,while trends in motorcycles and buses reveal important changes over the years.The visualization allows us to assess which vehicles contribute to more accidents and identify areas requiring targeted safety measures.
+![Image Alt]
 
 
 
