@@ -77,6 +77,7 @@ Fatality Rate (%) by Year (Line Graph):
 “Fatality Rate Trends: Insights into Traffic Fatalities Relative to Crash Rates”
 This dashboard visualizes the fatality rate per year,revealing that fatalities peaked around 2016 but remain relatively stable post-2021,despite injury reductions. The data helps assess the overall severity of accidents over time and the effectiveness of interventions aimed at reducing fatalities.
 
+![Image Alt](https://github.com/nsoumya520-cloud/NYC-Traffic-Collision-Analysis-SQL-Power-BI-GitHub-/blob/0a39eb33d16d2c11f2c78263fbdb9963b184a50a/Fatality%20Rate%20Trends%20Assessing%20Traffic%20Fatalities%20Relative%20to%20Crashes.png)
 
 
 Fatalities as a Share of Injuries (Line Graph):
