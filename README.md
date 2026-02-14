@@ -29,9 +29,13 @@ Business Problem:
 Traffic collisions in New York City are a significant public safety issue. With over a million accidents reported, it's difficult for policymakers and analysts to quickly assess the key risk areas and factors contributing to these incidents. Access to timely, actionable insights is crucial for reducing accidents and saving lives.
 
 Goal of the Dashboard:
+
 1)To provide an interactive Power BI tool that:
+
 2)Enables users to explore trends in traffic collisions across NYC.
+
 3)Helps identify high-risk locations, times, and contributing factors.
+
 4)Assists policymakers, urban planners, and safety analysts in making informed decisions about traffic safety measures.
 
 Walkthrough of Key Visuals:
